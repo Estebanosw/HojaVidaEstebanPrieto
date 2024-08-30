@@ -11,8 +11,7 @@
   }
 
  #CV{
-    border-top-left-radius: 20%;
-    border-bottom-right-radius: 20%;
+    border-radius: 100%;
     border:0px black solid;
     background-color:rgb(7, 6, 6);
     padding:1px;
