@@ -16,7 +16,8 @@
     background-color:rgb(7, 6, 6);
     padding:1px;
     box-shadow: 1px 0px 70px 10px rgba(7, 7, 7, 0.8);
-    width: 120px;
+    width: 200;
+    height: 120px;
   }
 
 .TXT{
@@ -115,3 +116,25 @@
     padding-top: 15px;
     text-align: center;
   }
+.estiloboton {
+    text-align: center;
+    padding: 20px;
+}
+
+.estilobotona{
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(147, 175, 124);
+    border-radius: 5px;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #c0c4c4;
+}
